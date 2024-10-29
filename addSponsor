@@ -1,0 +1,6 @@
+INSERT INTO SPONSOR
+VALUES 
+(3, 'Ezak Asad', 'asad4@gmail.com', '9290009900', 3.5),
+(4, 'Addison Blackwell', 'addi@yahoo.com', '9290088000', 2.3),
+(5, 'Richard Nixon', 'rn@gmail.com', '9270009000', 9.5),
+(6, 'Clark Kent', 'ck@gmail.com', '6290009000', 3.6);
