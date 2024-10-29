@@ -3,7 +3,7 @@ import { useState, useEffect } from 'react';
 
 
 export default function Page() {
-  const [sponsorInfo, setSponsors] = useState([]);
+  const [sponsorInfo, setSponsors] = useState<any[]>([]);
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
